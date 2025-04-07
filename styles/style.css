@@ -1,6 +1,5 @@
 body {
-    font-family: Arial;
-    
+    font-family: Arial; 
 }
 
 h1 {
@@ -10,5 +9,71 @@ h1 {
 .container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
- 
+}
+
+.blue-gray {
+    background-color: #1e293b;
+}
+.cool-gray {
+    background-color: #4b5563;
+}
+.warm-gray {
+    background-color: #78716c;
+}
+.amber {
+    background-color: #d97706;
+}
+.green {
+    background-color: #15803d;
+}
+.gray {
+    background-color: #374151;
+}
+.red {
+    background-color: #dc2626;
+}
+.yellow {
+    background-color: #eab308;
+}
+.emerald {
+    background-color: #059669;
+}
+.true-gray {
+    background-color: #6b7280;
+}
+.orange {
+    background-color: #f97316;
+}
+.lime {
+    background-color: #65a30d;
+}
+.teal {
+    background-color: #0f766e;
+}
+.fuchsia {
+    background-color: #c026d3;
+}
+.pink {
+    background-color: #db2777;
+}
+.rose {
+    background-color: #e11d48;
+}
+.purple {
+    background-color: #7c3aed;
+}
+.violet {
+    background-color: #6d28d9;
+}
+.indigo {
+    background-color: #4338ca;
+}
+.blue {
+    background-color: #2563eb;
+}
+.sky {
+    background-color: #0ea5e9;
+}
+.cyan {
+    background-color: #06b6d4;
 }
