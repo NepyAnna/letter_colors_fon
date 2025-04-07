@@ -1,16 +1,19 @@
 body {
-    font-family: Arial; 
+    font-family: Arial;
 }
 
 h1 {
     text-align: center;
 }
-
 .container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 }
-
+.box {
+    color: white;
+    padding: 20px 10px;
+    font-weight: bold;
+}
 .blue-gray {
     background-color: #1e293b;
 }
