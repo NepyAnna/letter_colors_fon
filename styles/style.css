@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+ 
+}
